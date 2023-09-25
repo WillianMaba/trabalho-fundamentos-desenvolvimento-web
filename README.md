@@ -6,7 +6,7 @@
   <!--utilizei listas não ordenadas para a criação do menu, utilizando link para que o usuário possa navegar tranquilamente pelo site-->
   <!--cada link levará para uma página diferente dos códigos, optei por deixar o menu em todas as páginas para facilitação de navegação-->
   <ul>
-    <li><a href="Sobremim.html">Sobre Mim</a></li>
+    <li><a href="sobremim.html">Sobre Mim</a></li>
     <br>
     <li><a href="hobbies.html">Hobbies</a></li>
     <br>
