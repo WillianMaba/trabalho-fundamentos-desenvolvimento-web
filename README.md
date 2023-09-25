@@ -25,13 +25,8 @@
     <!--nos links utilizei uma borda pontilhada com o recurso de quando o mouse passar por cima, o link ficar vermelho, com uma borda pontilhada para dar destaque e centralizada no lado esquerdo-->
     <style>
         
-        body{
-            background-image: url(curiosidades.png);
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size:100%;
-            background-color: bisque;
-            height: 100%;
+        body{      
+            background-color: bisque;          
         }
 
         h1{
